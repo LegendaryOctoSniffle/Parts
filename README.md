@@ -10,6 +10,8 @@ The goal for the first meeting will be to create a working sled drive, minus the
 
 The printer in the video uses a belt drive: the sleds are attached to a belt which is turned by motors in the base of the printer. The printer that we're making won't be using a belt: it will use a heavy threaded rod that's specially designed for driving precision movements.
 
+For our first meeting, we'll be assembling one "leg" of our printer. Though the parts list below is sufficient for one leg of the printer, we'll eventually be ordering three of all of the quantities provided below.
+
 * T8x2 Leadscrew w/nut (400mm) (x1)
   This will be the threaded rod that will move each of our sleds up and down. We'll couple the motor to one end, and secure the length of the rod with a bearing that lets it turn freely. The x2 doesn't mean to buy 2 (yet), it designates the number of threads on the rod. [Ebay](https://www.ebay.com/itm/322001200138?var=510932183194)
 * 8mm pillow block bearing. (x2)
@@ -25,5 +27,5 @@ The printer in the video uses a belt drive: the sleds are attached to a belt whi
 * LM8UU 8mm linear bearing (x1)
   For our sled to slide up and down the guide rod, we'll need to equip it with a linear bearing. [Ebay](https://www.ebay.com/itm/141843551594) We won't be making any other purchases from this seller, so I would recommend buying all three now.
   
-Most of the items that I've linked to are sold by Zyltech. We'll be making most of our subsequent purchases from Zyltech as well. Some of their items offer a combined shipping discount. If you want to take advantage of free shipping then you can order up to three of all of the items I've listed from Zyltech: we'll need them later.
+Most of the items that I've linked to are sold by Zyltech. We'll be making most of our subsequent purchases from Zyltech as well. Some of their items offer a combined shipping discount. If you want to take advantage of free shipping then you can order up to three of all of the items I've listed from Zyltech: we'll need them for the other two legs.
 

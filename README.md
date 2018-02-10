@@ -22,10 +22,12 @@ For our first meeting, we'll be assembling one "leg" of our printer. Though the 
   Stepper motors are built for precise, strong movement. Nema is a common standard for sizing stepper motors, and there are various Nema sizes. Additionally, stepper motors are rated by amperage. We'll be using a 1.7A Nema17 motor. [Ebay](https://www.ebay.com/itm/321966121485)
 * 5mm to 8mm shaft coupler (x1)
   These will couple the 5mm shaft of our drive motor to the 8mm leadscrew. [Ebay](https://www.ebay.com/itm/321966928277)
+* Endstop Switch (x1)
+  When the printer first turns on, it doesn't know how far up or down the sleds are on the rods. To find out, it moves the sleds all the way up the rods until they make contact with a switch. When the sleds make contact with the switch, the printer knows the exact position of the sled: it's at the top of its rod. [Ebay](http://r.ebay.com/yveNca) The linked item is a three pack: it's got all the endstop switches we'll need for all three legs of the printer.
 * 8mm by 400mm guide rod (x1)
   To drive our sled up and down, we'll mount it to the turning lead screw. But in order to keep the sled from turning, we'll need a second rod to guide it. [Ebay](https://www.ebay.com/itm/322454805576). We won't be making any other purchases from this seller, so I would recommend buying all three now.
 * LM8UU 8mm linear bearing (x1)
-  For our sled to slide up and down the guide rod, we'll need to equip it with a linear bearing. [Ebay](https://www.ebay.com/itm/141843551594) We won't be making any other purchases from this seller, so I would recommend buying all three now.
+  For our sled to slide up and down the guide rod, we'll need to equip it with a linear bearing. [Ebay](https://www.ebay.com/itm/141843551594) The linked item is a four pack. We'll need three total for all three legs, so you'll get them all in this one purchase.
   
 Most of the items that I've linked to are sold by Zyltech. We'll be making most of our subsequent purchases from Zyltech as well. Some of their items offer a combined shipping discount. If you want to take advantage of free shipping then you can order up to three of all of the items I've listed from Zyltech: we'll need them for the other two legs.
 

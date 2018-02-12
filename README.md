@@ -4,7 +4,7 @@ I'll refer to [this video](https://youtu.be/KroO4_xwKcs) to explain some of the 
 
 Total cost will be around $300.
 
-## March 10, 2018
+## ~~March 10~~ March 11, 2018
 
 The goal for the first meeting will be to create a working sled drive, minus the 3D printed parts. In the video above, the sleds are the orange things moving up and down the square rails.
 
